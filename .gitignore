@@ -2,3 +2,6 @@
 .env
 djia-coverage.json
 request-history.json
+earnings-call-site-review.ipynb
+json-test
+ticker-test.csv
