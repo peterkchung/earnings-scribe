@@ -1,7 +1,11 @@
 .venv
 .env
+__pycache__
+
+json-test
 djia-coverage.json
 request-history.json
-earnings-call-site-review.ipynb
-json-test
 ticker-test.csv
+
+earnings-call-site-review.ipynb
+testfunctions.py
